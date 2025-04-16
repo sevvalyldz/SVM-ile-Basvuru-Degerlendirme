@@ -1,3 +1,8 @@
+![ARGE](SVM/image/ARGE.png)
+![Linear](SVM/image/Linear.png)
+![Poly](SVM/image/poly.png)
+![Rbf](SVM/image/rbf.png)
+
 # 💼 SVM ile Aday Başarı Tahmini
 
 Bu projede, **Faker** kütüphanesi ile oluşturulan sahte veriler kullanılarak, adayların iş görüşmelerindeki başarı durumları **Support Vector Machine (SVM)** algoritması ile tahmin edilmektedir.
@@ -76,8 +81,4 @@ predict(1.5, 70)  # Başarısız aday
 
 > Bu proje, makine öğrenmesini temel düzeyde öğretmek ve veriyle karar verme sürecini görselleştirmek amacıyla hazırlanmıştır.
 
-![ARGE](SVM/image/ARGE.png)
-![Linear](SVM/image/Linear.png)
-![Poly](SVM/image/poly.png)
-![Rbf](SVM/image/rbf.png)
 
