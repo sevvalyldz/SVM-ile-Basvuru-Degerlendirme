@@ -76,7 +76,7 @@ predict(1.5, 70)  # Başarısız aday
 
 > Bu proje, makine öğrenmesini temel düzeyde öğretmek ve veriyle karar verme sürecini görselleştirmek amacıyla hazırlanmıştır.
 
-![ARGE](SVM/image/Arge.png)
+![ARGE](SVM/image/ARGE.png)
 ![Linear](SVM/image/Linear.png)
 ![Poly](SVM/image/poly.png)
 ![Rbf](SVM/image/rbf.png)
