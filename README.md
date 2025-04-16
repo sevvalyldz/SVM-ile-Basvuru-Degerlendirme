@@ -2,7 +2,7 @@
 ![Linear](SVM/image/Linear.png)
 ![Poly](SVM/image/poly.png)
 ![Rbf](SVM/image/rbf.png)
-
+![Sigmoid](SVM/image/sigmoid.png)
 # 💼 SVM ile Aday Başarı Tahmini
 
 Bu projede, **Faker** kütüphanesi ile oluşturulan sahte veriler kullanılarak, adayların iş görüşmelerindeki başarı durumları **Support Vector Machine (SVM)** algoritması ile tahmin edilmektedir.
